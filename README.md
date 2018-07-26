@@ -9,6 +9,8 @@ a client.
 Project Directory
 ============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/DevJoseWeb/ProjetoHTML5.svg)](https://greenkeeper.io/)
+
 The default project directory includes the following files and folders:
 
 * assets/  -  Contains global stylesheets and images for the application.
